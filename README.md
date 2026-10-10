@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YogeshTamil&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=YogeshTamil.YogeshTamil&label=Profile%20Views&countColor=%230ea5e9&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/YogeshTamil?label=Followers&style=for-the-badge&color=38BDF8&logo=github" alt="Followers" />
 
 <p>📍 Chennai, India &nbsp;·&nbsp; 💻 Web Development &nbsp;·&nbsp; 🚀 Continuous Learning</p>
@@ -180,11 +180,7 @@ A project exploring face recognition-based student attendance tracking using dee
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshTamil&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true" alt="Activity graph" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YogeshTamil&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+<img src="https://ghchart.rshah.org/38bdf8/YogeshTamil" alt="Contribution chart" width="85%" />
 
 </div>
 
